@@ -8,7 +8,6 @@ class Image
 		@Images.each do |cell|
 			puts cell.join
 		end
-
 	end
 end
 
